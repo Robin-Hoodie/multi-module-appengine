@@ -8,10 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
-    <artifactId>module-war</artifactId>
     <packaging>war</packaging>
 
+    <artifactId>module-war-2</artifactId>
 
     <dependencies>
         <dependency>

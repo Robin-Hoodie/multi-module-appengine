@@ -1,4 +1,4 @@
-package be.robin.appengine_tutorial.servlet;
+package be.robin.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

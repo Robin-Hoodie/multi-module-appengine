@@ -5,11 +5,11 @@
          version="2.5">
 
     <servlet>
-        <servlet-name>HelloWorldServlet</servlet-name>
-        <servlet-class>be.robin.servlet.HelloWorldServlet</servlet-class>
+        <servlet-name>TimeServlet</servlet-name>
+        <servlet-class>be.robin.servlet.TimeServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>HelloWorldServlet</servlet-name>
-        <url-pattern>/</url-pattern>
+        <servlet-name>TimeServlet</servlet-name>
+        <url-pattern>/time</url-pattern>
     </servlet-mapping>
 </web-app>
