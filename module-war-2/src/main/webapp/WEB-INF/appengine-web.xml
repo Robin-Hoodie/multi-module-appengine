@@ -4,7 +4,5 @@
     <version>1</version>
     <threadsafe>true</threadsafe>
 
-    <manual-scaling>
-        <instances>2</instances>
-    </manual-scaling>
+    <module>war-2</module>
 </appengine-web-app>
